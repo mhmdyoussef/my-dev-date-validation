@@ -1,5 +1,7 @@
 # Date Validator
 
+> __Note__: Tested on Wordpress 6 successfuly 
+
 ## Use it to deactivate the past days
 
 Enjoy it.. :smiley:
